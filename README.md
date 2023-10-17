@@ -25,4 +25,4 @@ git config --global user.name "Your Name"
 4. Alterando branch principal: `git branch -M "main"`
 5. Entrando no repositório criado: `git push -u origin main LINK`
 5. Adicionando todas alterações: `git push origin main`
-6. Caso queira encerrar a conexão com o repositório local: `git bash`
+6. Caso queira encerrar a conexão com o repositório local: `git remote rm origin`
